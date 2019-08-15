@@ -1,0 +1,11 @@
+{
+  "port": 5002,
+  "development": {
+    "username": "",
+    "password": "admin",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "dialect": "mongodb",
+    "port": 27017
+  }
+}
